@@ -1,3 +1,8 @@
+NOTE TO FUTURE SELF: You have the MPI4008
+
+
+
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
